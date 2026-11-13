@@ -1,8 +1,7 @@
 # AI agent entry point
 
 ## Project
-
-This repository packages a reusable MongoDB solutions architect skill.
+This repository packages reusable MongoDB architecture guidance.
 
 - Behavior: [SKILL.md](SKILL.md)
 - Architecture checklist: [references/mongodb-architecture.md](references/mongodb-architecture.md)
@@ -10,5 +9,4 @@ This repository packages a reusable MongoDB solutions architect skill.
 - User overview: [README.md](README.md)
 
 ## Contribute
-
 Read [CONTRIBUTING.md](CONTRIBUTING.md), keep changes focused, avoid secrets, and run the skill validator before committing.
