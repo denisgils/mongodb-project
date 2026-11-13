@@ -1,4 +1,4 @@
 interface:
-  display_name: "MongoDB Solutions Architect"
+  display_name: "MongoDB Architecture Guide"
   short_description: "Design and review MongoDB architectures"
-  default_prompt: "Use $mongodb-solutions-architect to design or review a concise MongoDB solution."
+  default_prompt: "Use $mongodb-architecture-guide to design or review a concise MongoDB solution."
